@@ -1,0 +1,7 @@
+main{
+    display: flexbox;
+}
+form{
+    padding: 12px;
+    background-color: aliceblue;
+}
